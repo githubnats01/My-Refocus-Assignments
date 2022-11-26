@@ -1,0 +1,23 @@
+{
+  "name": "my-refocus-assignments",
+  "version": "1.0.0",
+  "description": "Hello! Im Nats! I really enjoying this course.\r My hobby is playing mobile games, but now practicing code added to it :)\r My goal for this year is to be a reliable web developer\r I want to be a web developer because of the benefits that it can give, like a high paying remote job :)",
+  "main": "bmi_calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubnats01/My-Refocus-Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubnats01/My-Refocus-Assignments/issues"
+  },
+  "homepage": "https://github.com/githubnats01/My-Refocus-Assignments#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
